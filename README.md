@@ -1,26 +1,40 @@
-### Hi there 👋
+### Hi I'm Lucía 👋 <img src="https://user-images.githubusercontent.com/74728521/134806624-22a8c86a-b672-4268-a831-007ea113c781.jpg" width="100" heigth="100" align="right"/>
 
 
 ```javascript
-const aboutMe = {
-   pronouns: "she" | "her",
-   code: [HTML, CSS, Javascript],
+const about_me = {
+
+   who_i_am: 
+      [
+         "From entrepreneur and secretary to Web Developer", 
+         "More Frontender, but knowing Back"
+      ]
+      
+   code: ["HTML", "CSS", "Javascript"],
+   
    technologies: {
+   
       frontEnd: {
          js: ["React", "Angular-learning at the moment-"],
          css: ["SASS", "Bootstrap", "Material UI"]
       },
+      
       backEnd: {
-         java: ["Spring"],
          js: ["Node", "Express"],
-         csharp: ["Asp.net Core"],
-         misc: ["Bash", "Puppeteer", "Selenium", "Cypress"]
+         misc: ["Jest", "Figma", "GitHub"]
       },
-      databases: ["MongoDB", "mySQL", "SQLServer"],
-      mobile: ["Android", "IOS"]
+      
+      databases: ["MongoDB-Mongoose", "mySQL-Sequelize"],
+      
    },
-   currentOccupation: ["last year student, open for job opportunities"],
-   challenge: "I'm working towards being able to run a marathon.",
+   
+   current_occupation: 
+      [
+         "last year student", 
+         "At the moment, I'm studing stack MEAN and a MongoDB Certification", 
+         "Open for job opportunities!"
+      ],
+   challenge: "Working as a developer having been a secretary. Welcome al IT World!!",
 };
 ```
 
