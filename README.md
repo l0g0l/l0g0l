@@ -38,6 +38,9 @@ const about_me = {
 };
 ```
 
+<img src="https://github-readme-stats.vercel.app/api?username=l0g0l&show_icons=true&theme=radical" align="rigth"/>
+
+
 
 
 
