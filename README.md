@@ -1,5 +1,36 @@
 ### Hi there 👋
 
+
+```javascript
+const aboutMe = {
+   pronouns: "she" | "her",
+   code: [HTML, CSS, Javascript],
+   technologies: {
+      frontEnd: {
+         js: ["React", "Angular-learning at the moment-"],
+         css: ["SASS", "Bootstrap", "Material UI"]
+      },
+      backEnd: {
+         java: ["Spring"],
+         js: ["Node", "Express"],
+         csharp: ["Asp.net Core"],
+         misc: ["Bash", "Puppeteer", "Selenium", "Cypress"]
+      },
+      databases: ["MongoDB", "mySQL", "SQLServer"],
+      mobile: ["Android", "IOS"]
+   },
+   currentOccupation: ["last year student, open for job opportunities"],
+   challenge: "I'm working towards being able to run a marathon.",
+};
+```
+
+
+
+
+
+
+
+
 <!--
 **l0g0l/l0g0l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
