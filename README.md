@@ -8,7 +8,7 @@ const about_me = {
       [
          "From entrepreneur and secretary to Web Developer", 
          "More Frontender, but knowing Back"
-      ]
+      ],
       
    code: ["HTML", "CSS", "Javascript"],
    
@@ -38,7 +38,7 @@ const about_me = {
 };
 ```
 
-<img src="https://github-readme-stats.vercel.app/api?username=l0g0l&show_icons=true&theme=radical" align="rigth"/>
+<img src="https://github-readme-stats.vercel.app/api?username=l0g0l&show_icons=true&theme=radical" align="rigth" width="400" heigth="150" />
 
 
 
