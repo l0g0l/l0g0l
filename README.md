@@ -1,4 +1,4 @@
- <img src="https://user-images.githubusercontent.com/74728521/134806624-22a8c86a-b672-4268-a831-007ea113c781.jpg" width="100" heigth="100" align="right"/>
+<!---<img src="https://user-images.githubusercontent.com/74728521/134806624-22a8c86a-b672-4268-a831-007ea113c781.jpg" width="100" heigth="100" align="right"/> -->
  
 ```javascript
 const greeting = "HI! I'M LUCÍA";
