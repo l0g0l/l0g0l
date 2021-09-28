@@ -25,7 +25,7 @@ const about_me = {
          misc: ["Jest", "Figma", "GitHub"]
       },
       
-      databases: ["MongoDB-Mongoose", "mySQL-Sequelize"],
+      databases: ["MongoDB-Mongoose", "SQL-mySQL"],
       
    },
    
