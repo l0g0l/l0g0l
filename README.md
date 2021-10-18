@@ -36,7 +36,7 @@ const about_me = {
          "Open for job opportunities!"
       ],
       
-   challenge: "Working as a developer having been a secretary. Welcome al IT World!!",
+   challenge: "Working as a developer having been a secretary. Welcome to IT World!!",
 };
 ```
 
