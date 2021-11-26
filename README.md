@@ -8,7 +8,7 @@ const about_me = {
    who_i_am: 
       [
          "From entrepreneur and secretary to Web Developer", 
-         "More Frontender, but knowing Back"
+         "More frontend oriented but with knowledge on back-end side"
       ],
       
    code: ["HTML", "CSS", "Javascript"],
@@ -16,23 +16,23 @@ const about_me = {
    technologies: {
    
       frontEnd: {
-         js: ["React", "Angular-learning at the moment-"],
+         js: ["React", "Angular/TypeScript-learning at the moment-"],
          css: ["SASS", "Bootstrap", "Material UI"]
       },
       
       backEnd: {
          js: ["Node", "Express"],
-         misc: ["Jest", "Figma", "GitHub"]
       },
       
       databases: ["MongoDB-Mongoose", "SQL-mySQL"],
       
+      cloud: ["Heroku", "Netlifly", "GitHub"]
    },
    
    current_occupation: 
       [
          "last year student", 
-         "I’m currently learning stack MEAN and a MongoDB Certification", 
+         "I’m currently learning stack MEAN", 
          "Open for job opportunities!"
       ],
       
