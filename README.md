@@ -16,7 +16,7 @@ const about_me = {
    technologies: {
    
       frontEnd: {
-         js: ["React", "Angular/TypeScript-learning at the moment-"],
+         js: ["React", "Redux", ["Angular/TypeScript", "Next js"], "learning at the moment"],
          css: ["SASS", "Bootstrap", "Material UI"]
       },
       
@@ -32,7 +32,7 @@ const about_me = {
    current_occupation: 
       [
          "last year student", 
-         "I’m currently learning stack MEAN", 
+         "I’m currently learning TypeScript, Angular and Next js", 
          "Open for job opportunities!"
       ],
       
